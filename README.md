@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ybkrishna
-- 👀 I’m interested in Etl developer
-- 🌱 I’m currently learning Aws
+- 👀 I’m interested in VCO
+- 🌱 I’m currently learning Server side implementations
 - 💞️ I’m looking to collaborate on cms
 - 📫 How to reach me balakrishna.yasa@gmail.com
 
