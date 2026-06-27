@@ -2,7 +2,7 @@
 - 👀 I’m interested in Etl developer
 - 🌱 I’m currently learning Aws
 - 💞️ I’m looking to collaborate on cms
-- 📫 How to reach me balu.yasa@gmail.com
+- 📫 How to reach me balakrishna.yasa@gmail.com
 
 <!---
 ybkserver/ybkserver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
